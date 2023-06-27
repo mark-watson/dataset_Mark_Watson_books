@@ -1,4 +1,4 @@
-# Python Dataset for FOur of Mark Watson's Books
+# Python Dataset for Four of Mark Watson's Books
 
 Text from books:
 
